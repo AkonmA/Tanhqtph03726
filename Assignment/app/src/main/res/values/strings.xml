@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_addlop">Thêm Lớp</string>
+    <string name="btn_showlop">Hiển Thị Danh Sách Lớp</string>
+    <string name="btn_addsinhvien">Thêm Sinh Viên</string>
+    <string name="btn_showsinhvien">Hiển Thị Danh Sách Sinh Viên</string>
+    <string name="title_activity_dslop">Dslop</string>
+    <string name="title_activity_dsinhvien">Dsinhvien</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hoang\Desktop\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Assignment\Assignment\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_ee6c16a08cfb34c2f8b4328bb31f88a6c99c632f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Assignment\Assignment\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Assignment\Assignment\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e8f1ae2668c7813ee426400eba2a8a95f81db182\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Assignment\Assignment\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbdc8f48d2ca9fb82fa662e7f8383a594508908a">
+        <dex dex="C:\Assignment\Assignment\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_38aa74a97af64b3c654db8668c12830ebe5a404c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Assignment\Assignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_ee6c16a08cfb34c2f8b4328bb31f88a6c99c632f\classes.dex" />
+    </item>
+
+</items>

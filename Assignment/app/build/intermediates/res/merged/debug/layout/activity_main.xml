@@ -1,0 +1,44 @@
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:orientation="vertical">
+     <Button 
+         android:id="@+id/btnAddClass"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_margin="@dimen/button_margin"
+         android:layout_gravity="center"
+         android:text="@string/btn_addlop"
+         
+         />
+     <Button 
+         android:id="@+id/btnshowClass"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_margin="@dimen/button_margin"
+         android:layout_gravity="center"
+         android:text="@string/btn_showlop"
+         
+         />
+     <Button 
+         android:id="@+id/btnAddsinhvien"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_margin="@dimen/button_margin"
+         android:layout_gravity="center"
+         android:text="@string/btn_addsinhvien"
+         
+         />
+     <Button 
+         android:id="@+id/btnShowSinhVien"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_margin="@dimen/button_margin"
+         android:layout_gravity="center"
+         android:text="@string/btn_showsinhvien"
+         
+         />
+     
+    
+</LinearLayout>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_show_class.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\layout\\item_show_class.xml"
+    },
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_dialog_themlop.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\layout\\layout_dialog_themlop.xml"
+    },
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_dslop.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\layout\\activity_dslop.xml"
+    },
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_dialog_themsinhvien.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\layout\\layout_dialog_themsinhvien.xml"
+    },
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_show_student.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\layout\\item_show_student.xml"
+    },
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_dsinhvien.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\layout\\activity_dsinhvien.xml"
+    }
+]

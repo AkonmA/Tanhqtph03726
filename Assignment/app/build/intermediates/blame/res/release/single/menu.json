@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\menu\\dslop.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\menu\\dslop.xml"
+    },
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\menu\\dsinhvien.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\menu\\dsinhvien.xml"
+    },
+    {
+        "merged": "C:\\Assignment\\Assignment\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Assignment\\Assignment\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
