@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+
+    <EditText
+    android:id="@+id/et1"
+    android:layout_width="315dp"
+    android:layout_height="33dp"
+    android:text=""
+    tools:layout_editor_absoluteX="29dp"
+    tools:layout_editor_absoluteY="57dp" />
+
+    <EditText
+        android:id="@+id/et2"
+        android:layout_width="316dp"
+        android:layout_height="29dp"
+        android:text=""
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="113dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tinh tong"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="162dp" />
+
+    <TextView
+        android:id="@+id/tvketqua"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="230dp"
+        android:layout_width="100dp"
+        android:layout_height="28dp"
+        android:text="" />
+</LinearLayout>
